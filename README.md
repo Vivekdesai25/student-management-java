@@ -17,8 +17,6 @@ This is a simple Java-based Student Management application. It allows you to man
 - Java SE (Standard Edition)
 - Console-based or GUI-based interface (depending on implementation)
 
-## Getting Started
-
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or above installed on your system
