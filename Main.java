@@ -55,7 +55,7 @@ public class Main{
                     break;
 
                 case 3:
-                    System.out.println("Exiting...");
+                    System.out.println("Exiting.....");
                     return;
 
                 default:
